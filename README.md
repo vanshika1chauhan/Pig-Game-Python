@@ -10,7 +10,9 @@ This is a simple dice game built using Python where players roll a dice and try 
 - Turn-based gameplay
 
 ## How to Run
+```bash
 python pig.py
+```
 
 ## Technologies Used
 - Python
